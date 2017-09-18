@@ -1,1 +1,3 @@
 # PointOfSaleSystem
+
+![Screenshot](logo.jpg)

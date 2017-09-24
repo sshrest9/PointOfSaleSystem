@@ -11,3 +11,8 @@
 ![Screenshot](HouseholdScreenShot.jpg)
 ![Screenshot](LoginScreenShot.jpg)
 ![Screenshot](PaymentMethodScreenShot.jpg)
+![Screenshot](ProductScreenShot.jpg)
+![Screenshot](removeEmpScreenShot.jpg)
+![Screenshot](RemoveProductScreenShot.jpg)
+![Screenshot](UpdateEmpScreenShot.jpg)
+![Screenshot](UpdateProductScreenShot.jpg)

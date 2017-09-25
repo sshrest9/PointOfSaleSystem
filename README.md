@@ -1,5 +1,5 @@
 # PointOfSaleSystem
-Login in
+Login
 
 
 ![Screenshot](logo.jpg)

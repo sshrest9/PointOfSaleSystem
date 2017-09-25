@@ -1,8 +1,6 @@
 # PointOfSaleSystem
 
 ![Screenshot](logo.jpg)
-![Screenshot](addEmpScreenShot.jpg)
-![Screenshot](addProductScreenShots.jpg)
 ![Screenshot](BakingScreenShot.jpg)
 ![Screenshot](CashScreenShot.jpg)
 ![Screenshot](DairyScreenShot.jpg)
@@ -12,6 +10,8 @@
 ![Screenshot](LoginScreenShot.jpg)
 ![Screenshot](PaymentMethodScreenShot.jpg)
 ![Screenshot](ProductScreenShot.jpg)
+![Screenshot](addEmpScreenShot.jpg)
+![Screenshot](addProductScreenShots.jpg)
 ![Screenshot](removeEmpScreenShot.jpg)
 ![Screenshot](RemoveProductScreenShot.jpg)
 ![Screenshot](UpdateEmpScreenShot.jpg)
